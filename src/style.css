@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .container-fluid {
+    width: 200px;
+    height: 300px;
+    display: inline-table;
+    margin: 20px;
+    font-size: 20px;
+  }
+  
